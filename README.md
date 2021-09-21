@@ -1,5 +1,3 @@
 # 017-06-Lab3
-
-Project Team Members: 
-Race Mouty
-Branch Conflict Creation
+Fixed Issues for pull request review
+Project Team Members: Michael, Mayank, Race, Henry, Riley, Kyle
